@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e9f2884b-ff20-455f-aff0-96f6573ef102" name="Default Changelist" comment="01">
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2022-02-10/01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2022-02-10/01_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2022-02-10/02.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2022-02-10/03.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2022-02-10/04.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2022-02-10/05.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2022-02-10/06.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2022-02-10/07.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2022-02-10/08.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" show_ignored="true" />
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="278yU87UvdrclwQfq8gQrXcnrBv" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/2022-02-10" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\MSI MODERN\it-math.ru\YandexDisk\!_Projects\vumip1\2022-04-01" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.o1">
+    <configuration name="кортежи" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="vumip1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2022-04-14" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2022-04-14/кортежи.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="09" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="vumip1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2022-04-07" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2022-04-07/09.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="множества" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="vumip1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2022-04-14" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2022-04-14/множества.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="m88" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="vumip1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2022-04-07" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2022-04-07/m88.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="o1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="vumip1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2022-04-14" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2022-04-14/o1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.o1" />
+        <item itemvalue="Python.09" />
+        <item itemvalue="Python.кортежи" />
+        <item itemvalue="Python.m88" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e9f2884b-ff20-455f-aff0-96f6573ef102" name="Default Changelist" comment="" />
+      <created>1648716020500</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1648716020500</updated>
+    </task>
+    <task id="LOCAL-00001" summary="01">
+      <created>1651648275707</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1651648275707</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="01" />
+    <option name="LAST_COMMIT_MESSAGE" value="01" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="302" y="0" key="CommitChangelistDialog2" timestamp="1651648083437">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="302" y="0" key="CommitChangelistDialog2/0.0.1920.1032@0.0.1920.1032" timestamp="1651648083437" />
+    <state x="634" y="150" key="FileChooserDialogImpl" timestamp="1651647535529">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="634" y="150" key="FileChooserDialogImpl/0.0.1920.1032@0.0.1920.1032" timestamp="1651647535529" />
+    <state x="740" y="364" key="Github.ShareDialog" timestamp="1651648396912">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="740" y="364" key="Github.ShareDialog/0.0.1920.1032@0.0.1920.1032" timestamp="1651648396912" />
+    <state width="1887" height="307" key="GridCell.Tab.0.bottom" timestamp="1651647510327">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1887" height="307" key="GridCell.Tab.0.bottom/0.0.1920.1032@0.0.1920.1032" timestamp="1651647510327" />
+    <state width="1887" height="307" key="GridCell.Tab.0.center" timestamp="1651647510327">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1887" height="307" key="GridCell.Tab.0.center/0.0.1920.1032@0.0.1920.1032" timestamp="1651647510327" />
+    <state width="1887" height="307" key="GridCell.Tab.0.left" timestamp="1651647510327">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1887" height="307" key="GridCell.Tab.0.left/0.0.1920.1032@0.0.1920.1032" timestamp="1651647510327" />
+    <state width="1887" height="307" key="GridCell.Tab.0.right" timestamp="1651647510327">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1887" height="307" key="GridCell.Tab.0.right/0.0.1920.1032@0.0.1920.1032" timestamp="1651647510327" />
+    <state x="218" y="0" key="SettingsEditor" timestamp="1651647475906">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="218" y="0" key="SettingsEditor/0.0.1920.1032@0.0.1920.1032" timestamp="1651647475906" />
+    <state x="352" y="117" key="Vcs.Push.Dialog.v2" timestamp="1651648766998">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="352" y="117" key="Vcs.Push.Dialog.v2/0.0.1920.1032@0.0.1920.1032" timestamp="1651648766998" />
+    <state x="666" y="377" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1651648362300">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="666" y="377" key="git4idea.remote.GitConfigureRemotesDialog/0.0.1920.1032@0.0.1920.1032" timestamp="1651648362300" />
+  </component>
+</project>
