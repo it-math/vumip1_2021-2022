@@ -1,17 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="e9f2884b-ff20-455f-aff0-96f6573ef102" name="Default Changelist" comment="01">
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2022-02-10/01.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2022-02-10/01_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2022-02-10/02.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2022-02-10/03.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2022-02-10/04.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2022-02-10/05.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2022-02-10/06.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2022-02-10/07.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2022-02-10/08.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2022-05-19/01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2022-05-19/02.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2022-05-19/03.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,16 +50,21 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/2022-02-10" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/2022-02-24" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\MSI MODERN\it-math.ru\YandexDisk\!_Projects\!Subjects\vumip1 (2021-2022)\2022-02-24" />
+      <recent name="C:\Users\MSI MODERN\it-math.ru\YandexDisk\!_Projects\!Subjects\vumip1 (2021-2022)\2022-02-17" />
+      <recent name="C:\Users\MSI MODERN\it-math.ru\YandexDisk\!_Projects\!Subjects\vumip1 (2021-2022)\2022-02-10" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\MSI MODERN\it-math.ru\YandexDisk\!_Projects\vumip1\2022-04-01" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.o1">
-    <configuration name="кортежи" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.03">
+    <configuration name="01" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="vumip1" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -55,11 +72,53 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2022-04-14" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2022-05-19" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2022-04-14/кортежи.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2022-05-19/01.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="02" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="vumip1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2022-05-19" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2022-05-19/02.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="03" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="vumip1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2022-05-19" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2022-05-19/03.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -110,27 +169,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="m88" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="vumip1" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2022-04-07" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2022-04-07/m88.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="o1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="vumip1" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -154,10 +192,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.03" />
+        <item itemvalue="Python.02" />
+        <item itemvalue="Python.01" />
         <item itemvalue="Python.o1" />
         <item itemvalue="Python.09" />
-        <item itemvalue="Python.кортежи" />
-        <item itemvalue="Python.m88" />
       </list>
     </recent_temporary>
   </component>
@@ -179,8 +218,47 @@
       <option name="project" value="LOCAL" />
       <updated>1651648275707</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="01">
+      <created>1651648774295</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1651648774295</updated>
+    </task>
+    <task id="LOCAL-00003" summary="01">
+      <created>1651648837773</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1651648837773</updated>
+    </task>
+    <task id="LOCAL-00004" summary="01">
+      <created>1651648954063</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1651648954063</updated>
+    </task>
+    <task id="LOCAL-00005" summary="01">
+      <created>1651649047152</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1651649047152</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="01" />
@@ -191,38 +269,38 @@
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
     <state x="302" y="0" key="CommitChangelistDialog2/0.0.1920.1032@0.0.1920.1032" timestamp="1651648083437" />
-    <state x="634" y="150" key="FileChooserDialogImpl" timestamp="1651647535529">
+    <state x="634" y="150" key="FileChooserDialogImpl" timestamp="1652432711842">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
-    <state x="634" y="150" key="FileChooserDialogImpl/0.0.1920.1032@0.0.1920.1032" timestamp="1651647535529" />
+    <state x="634" y="150" key="FileChooserDialogImpl/0.0.1920.1032@0.0.1920.1032" timestamp="1652432711842" />
     <state x="740" y="364" key="Github.ShareDialog" timestamp="1651648396912">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
     <state x="740" y="364" key="Github.ShareDialog/0.0.1920.1032@0.0.1920.1032" timestamp="1651648396912" />
-    <state width="1887" height="307" key="GridCell.Tab.0.bottom" timestamp="1651647510327">
+    <state width="1253" height="349" key="GridCell.Tab.0.bottom" timestamp="1652954354333">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
-    <state width="1887" height="307" key="GridCell.Tab.0.bottom/0.0.1920.1032@0.0.1920.1032" timestamp="1651647510327" />
-    <state width="1887" height="307" key="GridCell.Tab.0.center" timestamp="1651647510327">
+    <state width="1253" height="349" key="GridCell.Tab.0.bottom/0.0.1920.1032@0.0.1920.1032" timestamp="1652954354333" />
+    <state width="1253" height="349" key="GridCell.Tab.0.center" timestamp="1652954354332">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
-    <state width="1887" height="307" key="GridCell.Tab.0.center/0.0.1920.1032@0.0.1920.1032" timestamp="1651647510327" />
-    <state width="1887" height="307" key="GridCell.Tab.0.left" timestamp="1651647510327">
+    <state width="1253" height="349" key="GridCell.Tab.0.center/0.0.1920.1032@0.0.1920.1032" timestamp="1652954354332" />
+    <state width="1253" height="349" key="GridCell.Tab.0.left" timestamp="1652954354332">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
-    <state width="1887" height="307" key="GridCell.Tab.0.left/0.0.1920.1032@0.0.1920.1032" timestamp="1651647510327" />
-    <state width="1887" height="307" key="GridCell.Tab.0.right" timestamp="1651647510327">
+    <state width="1253" height="349" key="GridCell.Tab.0.left/0.0.1920.1032@0.0.1920.1032" timestamp="1652954354332" />
+    <state width="1253" height="349" key="GridCell.Tab.0.right" timestamp="1652954354333">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
-    <state width="1887" height="307" key="GridCell.Tab.0.right/0.0.1920.1032@0.0.1920.1032" timestamp="1651647510327" />
+    <state width="1253" height="349" key="GridCell.Tab.0.right/0.0.1920.1032@0.0.1920.1032" timestamp="1652954354333" />
     <state x="218" y="0" key="SettingsEditor" timestamp="1651647475906">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
     <state x="218" y="0" key="SettingsEditor/0.0.1920.1032@0.0.1920.1032" timestamp="1651647475906" />
-    <state x="352" y="117" key="Vcs.Push.Dialog.v2" timestamp="1651648766998">
+    <state x="352" y="117" key="Vcs.Push.Dialog.v2" timestamp="1651649050167">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
-    <state x="352" y="117" key="Vcs.Push.Dialog.v2/0.0.1920.1032@0.0.1920.1032" timestamp="1651648766998" />
+    <state x="352" y="117" key="Vcs.Push.Dialog.v2/0.0.1920.1032@0.0.1920.1032" timestamp="1651649050167" />
     <state x="666" y="377" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1651648362300">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
