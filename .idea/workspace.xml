@@ -20,9 +20,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e9f2884b-ff20-455f-aff0-96f6573ef102" name="Default Changelist" comment="01">
-      <change afterPath="$PROJECT_DIR$/2022-05-19/01.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2022-05-19/02.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2022-05-19/03.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2022-05-26/01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2022-05-26/02.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2022-05-26/03.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2022-05-26/04.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2022-05-26/05.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -50,7 +52,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/2022-02-24" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
@@ -63,8 +65,8 @@
       <recent name="C:\Users\MSI MODERN\it-math.ru\YandexDisk\!_Projects\vumip1\2022-04-01" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.03">
-    <configuration name="01" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.05">
+    <configuration name="01 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="vumip1" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -72,11 +74,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2022-05-19" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2022-05-26" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2022-05-19/01.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2022-05-26/01.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -85,7 +87,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="02" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="02 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="vumip1" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -93,11 +95,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2022-05-19" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2022-05-26" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2022-05-19/02.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2022-05-26/02.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -106,7 +108,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="03" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="03 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="vumip1" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -114,11 +116,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2022-05-19" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2022-05-26" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2022-05-19/03.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2022-05-26/03.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -127,7 +129,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="09" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="04" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="vumip1" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -135,11 +137,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2022-04-07" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2022-05-26" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2022-04-07/09.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2022-05-26/04.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -148,7 +150,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="множества" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="05" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="vumip1" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -156,32 +158,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2022-04-14" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2022-05-26" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2022-04-14/множества.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="o1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="vumip1" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2022-04-14" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2022-04-14/o1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2022-05-26/05.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -192,11 +173,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.03" />
-        <item itemvalue="Python.02" />
-        <item itemvalue="Python.01" />
-        <item itemvalue="Python.o1" />
-        <item itemvalue="Python.09" />
+        <item itemvalue="Python.05" />
+        <item itemvalue="Python.04" />
+        <item itemvalue="Python.03 (1)" />
+        <item itemvalue="Python.02 (1)" />
+        <item itemvalue="Python.01 (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -246,7 +227,14 @@
       <option name="project" value="LOCAL" />
       <updated>1651649047152</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="01">
+      <created>1652954539303</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1652954539303</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -259,6 +247,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="01" />
@@ -277,30 +266,30 @@
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
     <state x="740" y="364" key="Github.ShareDialog/0.0.1920.1032@0.0.1920.1032" timestamp="1651648396912" />
-    <state width="1253" height="349" key="GridCell.Tab.0.bottom" timestamp="1652954354333">
+    <state width="1293" height="398" key="GridCell.Tab.0.bottom" timestamp="1653559035693">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
-    <state width="1253" height="349" key="GridCell.Tab.0.bottom/0.0.1920.1032@0.0.1920.1032" timestamp="1652954354333" />
-    <state width="1253" height="349" key="GridCell.Tab.0.center" timestamp="1652954354332">
+    <state width="1293" height="398" key="GridCell.Tab.0.bottom/0.0.1920.1032@0.0.1920.1032" timestamp="1653559035693" />
+    <state width="1293" height="398" key="GridCell.Tab.0.center" timestamp="1653559035691">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
-    <state width="1253" height="349" key="GridCell.Tab.0.center/0.0.1920.1032@0.0.1920.1032" timestamp="1652954354332" />
-    <state width="1253" height="349" key="GridCell.Tab.0.left" timestamp="1652954354332">
+    <state width="1293" height="398" key="GridCell.Tab.0.center/0.0.1920.1032@0.0.1920.1032" timestamp="1653559035691" />
+    <state width="1293" height="398" key="GridCell.Tab.0.left" timestamp="1653559035690">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
-    <state width="1253" height="349" key="GridCell.Tab.0.left/0.0.1920.1032@0.0.1920.1032" timestamp="1652954354332" />
-    <state width="1253" height="349" key="GridCell.Tab.0.right" timestamp="1652954354333">
+    <state width="1293" height="398" key="GridCell.Tab.0.left/0.0.1920.1032@0.0.1920.1032" timestamp="1653559035690" />
+    <state width="1293" height="398" key="GridCell.Tab.0.right" timestamp="1653559035692">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
-    <state width="1253" height="349" key="GridCell.Tab.0.right/0.0.1920.1032@0.0.1920.1032" timestamp="1652954354333" />
+    <state width="1293" height="398" key="GridCell.Tab.0.right/0.0.1920.1032@0.0.1920.1032" timestamp="1653559035692" />
     <state x="218" y="0" key="SettingsEditor" timestamp="1651647475906">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
     <state x="218" y="0" key="SettingsEditor/0.0.1920.1032@0.0.1920.1032" timestamp="1651647475906" />
-    <state x="352" y="117" key="Vcs.Push.Dialog.v2" timestamp="1651649050167">
+    <state x="352" y="117" key="Vcs.Push.Dialog.v2" timestamp="1653042775694">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
-    <state x="352" y="117" key="Vcs.Push.Dialog.v2/0.0.1920.1032@0.0.1920.1032" timestamp="1651649050167" />
+    <state x="352" y="117" key="Vcs.Push.Dialog.v2/0.0.1920.1032@0.0.1920.1032" timestamp="1653042775694" />
     <state x="666" y="377" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1651648362300">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
